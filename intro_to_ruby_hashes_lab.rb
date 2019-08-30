@@ -34,7 +34,7 @@ def monopoly_with_third_tier
 		}
 	}
 
-	monopoly = {
+	=begin monopoly = {
 		:railroads => {
 			pieces: 4,
 			:rent_in_dollars => {
@@ -44,7 +44,7 @@ def monopoly_with_third_tier
 				reading_railroad: {}, shortline_railroad: {}, b_and_o_railroad: {}, pennsylvania_railroad: {}
 			}
 			}
-			}
+			 } = end
 end
 
 def monopoly_with_fourth_tier

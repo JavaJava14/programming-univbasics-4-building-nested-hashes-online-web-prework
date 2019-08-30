@@ -34,7 +34,7 @@ def monopoly_with_third_tier
 		}
 	}
 
-	=begin 
+	=begin
 	monopoly = {
 		:railroads => {
 			pieces: 4,
@@ -45,7 +45,7 @@ def monopoly_with_third_tier
 				reading_railroad: {}, shortline_railroad: {}, b_and_o_railroad: {}, pennsylvania_railroad: {}
 			}
 			}
-			 } 
+			 }
 			 = end
 end
 
